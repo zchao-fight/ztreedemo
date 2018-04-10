@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ztreedemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ztreedemo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ztreedemo:war exploded" />
+    </root>
+  </artifact>
+</component>
